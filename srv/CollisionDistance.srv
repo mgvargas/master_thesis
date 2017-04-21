@@ -1,0 +1,5 @@
+geometry_msgs/PoseStamped[] trajectory
+---
+string success # Tells if a collision was found
+#string[] objects # possible collisions
+#float[] distance # collision distance
